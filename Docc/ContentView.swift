@@ -88,4 +88,7 @@ struct OtherDocc {
     
     var otherName = ""
     
+    
+    func initfuncs() { }
+    
 }
